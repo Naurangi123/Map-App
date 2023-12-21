@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "live-server": "^1.2.2"
+  },
+  "scripts": {
+    "start": "index.html"
+  }
+}
